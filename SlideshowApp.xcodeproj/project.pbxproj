@@ -12,6 +12,7 @@
 		251A36361C7B419500999BA0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 251A36341C7B419500999BA0 /* Main.storyboard */; };
 		251A36381C7B419500999BA0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 251A36371C7B419500999BA0 /* Assets.xcassets */; };
 		251A363B1C7B419500999BA0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 251A36391C7B419500999BA0 /* LaunchScreen.storyboard */; };
+		251A36431C7B63AE00999BA0 /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 251A36421C7B63AE00999BA0 /* ImageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		251A36371C7B419500999BA0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		251A363A1C7B419500999BA0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		251A363C1C7B419500999BA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		251A36421C7B63AE00999BA0 /* ImageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				251A36301C7B419500999BA0 /* AppDelegate.swift */,
 				251A36321C7B419500999BA0 /* ViewController.swift */,
 				251A36341C7B419500999BA0 /* Main.storyboard */,
+				251A36421C7B63AE00999BA0 /* ImageViewController.swift */,
 				251A36371C7B419500999BA0 /* Assets.xcassets */,
 				251A36391C7B419500999BA0 /* LaunchScreen.storyboard */,
 				251A363C1C7B419500999BA0 /* Info.plist */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				251A36431C7B63AE00999BA0 /* ImageViewController.swift in Sources */,
 				251A36331C7B419500999BA0 /* ViewController.swift in Sources */,
 				251A36311C7B419500999BA0 /* AppDelegate.swift in Sources */,
 			);
